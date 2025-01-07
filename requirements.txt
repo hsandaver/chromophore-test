@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+rdkit-pypi  # Unofficial RDKit package from PyPI; may not work in all cases
+py3Dmol
+Pillow
